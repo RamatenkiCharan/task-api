@@ -68,3 +68,19 @@ task-api/
 
 └── venv/
 
+\## Automated Testing
+
+
+
+The project includes automated tests using `pytest` and FastAPI's `TestClient`.
+
+
+
+Run all tests with:
+
+
+
+```bash
+
+python -m pytest
+
